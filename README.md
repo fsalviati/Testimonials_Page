@@ -1,5 +1,5 @@
 # Testimonials_Page
-Testimonials JavaScript Project
+Testimonials Project
 JavaScript Used
  - DOM Manipulation
  - Control Structures
