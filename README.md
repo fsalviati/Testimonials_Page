@@ -1,6 +1,5 @@
 # Testimonials_Page
-Testimonials Project
-JavaScript Used
+Testimonials project page built using:
  - DOM Manipulation
  - Control Structures
  - Arrays
